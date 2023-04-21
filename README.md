@@ -9,3 +9,5 @@ change 4 from remote repo
 change 5 from remote repo
 change 6 from remote repo
 change3 from local
+
+change1 from feature1
